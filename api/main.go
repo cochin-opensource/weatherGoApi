@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 	"time"
-	"github.com/vibin18/goRest/mirrors"
-	"github.com/vibin18/goRest/weather"
-	"github.com/vibin18/goRest/localApiGather"
+	"github.com/cochin-opensource/weatherGoApi/mirrors"
+	"github.com/cochin-opensource/weatherGoApi/weather"
+	"github.com/cochin-opensource/weatherGoApi/localApiGather"
 	log "github.com/sirupsen/logrus"
 
 
