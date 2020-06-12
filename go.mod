@@ -1,4 +1,4 @@
-module github.com/vibin18/goRest
+module github.com/cochin-opensource/weatherGoApi
 
 go 1.13
 
